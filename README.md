@@ -6,7 +6,8 @@
 ### App web desenvolvido no evento NLW Journey https://youtu.be/JqL6zmoj97E 
 
 ## Demonstração
-#### Imagens  em mobile:
+#### Imagem  em mobile:
 ![IMG_20240712_212914](https://github.com/user-attachments/assets/d02642d1-cdc4-4d8d-9dd9-24103389d990)
-#### Imagens em desktop:
+#### Imagem em desktop:
 ![Captura de imagem_20240712_181356](https://github.com/user-attachments/assets/b957ecdb-aa0d-4e1c-9a65-024d7506df82)
+
